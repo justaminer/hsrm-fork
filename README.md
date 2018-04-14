@@ -4,9 +4,14 @@ Fork contains 1 minute per hour devfee.
 
 https://bitcointalk.org/index.php?topic=2765610.0
 
-Latest version: 12.03.2018
+Latest version: 14.04.2018
 
 Changelog:
+
+     Version: 12.03.2018
+     
+~  Miner now displays number of accepted/rejected/total shares.     
+
 
      Version: 12.03.2018
 
