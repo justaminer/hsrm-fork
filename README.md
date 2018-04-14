@@ -8,7 +8,7 @@ Latest version: 14.04.2018
 
 Changelog:
 
-     Version: 12.03.2018
+     Version: 14.04.2018
      
 ~  Miner now displays number of accepted/rejected/total shares.     
 
