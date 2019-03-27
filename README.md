@@ -1,12 +1,18 @@
 This is Hsrminer neoscrypt fork by JustAMiner, with hsrminer's bugs fixed, new GPUs support, working API, and many new usefull ccminer-style options!
 
-Fork contains 1 minute per hour devfee.
+Fork contains 0.9% devfee ( 50 seconds devfee every 90 minutes of mining).
 
 https://bitcointalk.org/index.php?topic=2765610.0
 
-Latest version: 14.04.2018
+Latest version: 25.03.2019
 
 Changelog:
+     
+     Version: 25.03.2019
+     
+~  Added test support for Nvidia GTX 1660 Ti, RTX 2060, RTX 2070, RTX 2080, RTX 2080 Ti
+~  Devfee reduced to only 0.9% ( 50 seconds devfee every 90 minutes of mining)!
+
 
      Version: 14.04.2018
      
