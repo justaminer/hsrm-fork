@@ -11,6 +11,7 @@ Changelog:
      Version: 25.03.2019
      
 ~  Added test support for Nvidia GTX 1660 Ti, RTX 2060, RTX 2070, RTX 2080, RTX 2080 Ti
+
 ~  Devfee reduced to only 0.9% ( 50 seconds devfee every 90 minutes of mining)!
 
 
